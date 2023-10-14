@@ -19,6 +19,3 @@ function sayHiToHeadphonedRoommate(string) {
         return "I can't hear you!";
     }
 }
-function sayHiToHeadphonedRoommate(word){
-    if (word.toLowerCase() === "let's have dinner together!")
-}
